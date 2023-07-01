@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\bin\Debug\net6.0\TugasArray.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\bin\Debug\net6.0\TugasArray.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\bin\Debug\net6.0\TugasArray.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\bin\Debug\net6.0\TugasArray.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\bin\Debug\net6.0\TugasArray.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\refint\TugasArray.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\TugasArray.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\TugasArray\obj\Debug\net6.0\ref\TugasArray.dll
